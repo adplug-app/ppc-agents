@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-ads-manager",
+  "displayName": "LinkedIn Ads Manager",
+  "version": "1.0.0",
+  "description": "LinkedIn Ads Manager by AdPlug: runs LinkedIn Ads through AdPlug's hosted connector, with the checks, reports and audits a PPC specialist would do. Changes only after a preview and your yes.",
+  "author": {
+    "name": "AdPlug",
+    "url": "https://adplug.app"
+  },
+  "homepage": "https://adplug.app/dashboard/agents",
+  "repository": "https://github.com/adplug-app/ppc-agents",
+  "license": "MIT"
+}

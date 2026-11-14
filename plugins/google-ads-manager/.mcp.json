@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adplug-google-ads": {
+      "type": "http",
+      "url": "https://api.adplug.app/mcp/google-ads"
+    }
+  }
+}

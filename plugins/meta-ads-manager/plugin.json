@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "meta-ads-manager",
+  "version": "1.0.0",
+  "description": "Meta Ads Manager by AdPlug: runs Meta Ads through AdPlug's hosted connector, with the checks, reports and audits a PPC specialist would do. Changes only after a preview and your yes."
+}

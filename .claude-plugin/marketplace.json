@@ -1,0 +1,30 @@
+{
+  "name": "adplug",
+  "owner": {
+    "name": "AdPlug",
+    "url": "https://adplug.app"
+  },
+  "metadata": {
+    "description": "AdPlug's ad account managers for Google Ads, Meta Ads and LinkedIn Ads."
+  },
+  "plugins": [
+    {
+      "name": "google-ads-manager",
+      "source": "./plugins/google-ads-manager",
+      "description": "Google Ads Manager by AdPlug: runs Google Ads through AdPlug's hosted connector, with the checks, reports and audits a PPC specialist would do. Changes only after a preview and your yes.",
+      "category": "productivity"
+    },
+    {
+      "name": "meta-ads-manager",
+      "source": "./plugins/meta-ads-manager",
+      "description": "Meta Ads Manager by AdPlug: runs Meta Ads through AdPlug's hosted connector, with the checks, reports and audits a PPC specialist would do. Changes only after a preview and your yes.",
+      "category": "productivity"
+    },
+    {
+      "name": "linkedin-ads-manager",
+      "source": "./plugins/linkedin-ads-manager",
+      "description": "LinkedIn Ads Manager by AdPlug: runs LinkedIn Ads through AdPlug's hosted connector, with the checks, reports and audits a PPC specialist would do. Changes only after a preview and your yes.",
+      "category": "productivity"
+    }
+  ]
+}
