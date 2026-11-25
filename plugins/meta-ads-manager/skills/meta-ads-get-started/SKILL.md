@@ -43,7 +43,7 @@ If they ask what the connector can see and change, send the Meta Ads page: https
 
 ## After it connects
 
-Call `adplug_get_status` and `meta_ads_list_accounts`. Tell them, in the words the status tool gives you, whether the plan can view or can also change, and how many requests are left this month. The free plan is view only, and after its welcome bonus it allows about 50 requests a month. Trust `adplug_get_status` over this sentence if they differ. On that limit, say once which routines to keep: the Weekly report and the Monthly report. If a later change is refused because the plan is view only, send https://adplug.app/pricing?utm_source=plugin&utm_medium=referral&utm_campaign=ppc-agents-meta-ads&utm_content=pricing . Do not send that link for any other reason.
+Call `adplug_get_status` and `meta_ads_list_accounts`. Tell them, in the words the status tool gives you, whether the plan can view or can also change, and how many requests are left this month. The free plan is view only, and after its welcome bonus it allows about 30 requests a month. Trust `adplug_get_status` over this sentence if they differ. On that limit, say once which routines to keep: the Weekly report and the Monthly report. If a later change is refused because the plan is view only, send https://adplug.app/pricing?utm_source=plugin&utm_medium=referral&utm_campaign=ppc-agents-meta-ads&utm_content=pricing . Do not send that link for any other reason.
 
 Then ask, in the same reply, for anything you do not already know:
 

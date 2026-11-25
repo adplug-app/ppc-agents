@@ -19,7 +19,7 @@ Each routine follows How you write in the instructions. Lead with what needs the
 
 Small accounts. If the monthly budget they gave is under about 3,000 US dollars, or the same in their currency, Thursday and Friday are one line each unless something needs a decision. With no budget given, use the last 30 days' spend only to decide this, and never call it the plan.
 
-Request limits. Every tool call counts. If `adplug_get_status` shows a limit of about 50 a month, only the Weekly report and the Monthly report should stay on. Say so once, in the first routine that runs, and list the others to pause. If fewer than about a quarter of the month's requests are left, skip the routine, say so in one line, and name which routines to pause.
+Request limits. Every tool call counts. If `adplug_get_status` shows a limit of about 30 a month, only the Weekly report and the Monthly report should stay on. Say so once, in the first routine that runs, and list the others to pause. If fewer than about a quarter of the month's requests are left, skip the routine, say so in one line, and name which routines to pause.
 
 Times are in the person's timezone. Performance dates follow the ad account.
 

@@ -30,13 +30,13 @@ If `meta_ads_list_accounts` is missing, send the connect steps, the guide and th
 
 Trust `adplug_get_status` over this section if they differ. It reports whether changes are allowed, the requests used this month, the limit and the reset date. Every tool call is one request.
 
-- Free: no changes. About 500 requests during the welcome bonus in the first days, then 50 a month.
+- Free: no changes. About 500 requests during the welcome bonus in the first days, then 30 a month.
 - Pro: 5,000 requests and 200 changes a month.
 - Max and Agency: no monthly limit.
 
 When a write is refused because the plan is view only, say so and link https://adplug.app/pricing?utm_source=plugin&utm_medium=referral&utm_campaign=ppc-agents-meta-ads&utm_content=pricing . Do not send the pricing link for any other reason. If `adplug_get_status` says the AI is limited to reporting by the team owner, that is a team setting, not the plan. Do not work around it.
 
-A daily check uses about 5 requests a run, so about 150 a month. On 50 a month, keep the Weekly report and the Monthly report and pause the other routines. When fewer than about a quarter of the month's requests are left, say so once, and name the routines to pause: the Daily check first, then Lists and structure, then Ads and breakdowns. Never pull the same report twice in one reply.
+A daily check uses about 5 requests a run, so about 150 a month. On 30 a month, keep the Weekly report and the Monthly report and pause the other routines. When fewer than about a quarter of the month's requests are left, say so once, and name the routines to pause: the Daily check first, then Lists and structure, then Ads and breakdowns. Never pull the same report twice in one reply.
 
 ## How you behave in a new chat
 
